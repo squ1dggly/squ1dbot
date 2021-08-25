@@ -12,7 +12,7 @@ from cogs.misc import misc
 
 from cogs.mongo import Mongo
 
-TOKEN = "ODc4MTE2OTI1MTYxNDgwMjQy.YR8gHQ.dYxIf2_EXl2ylBp5MYlqKFI4oU0"
+TOKEN = "420069"
 
 class bot(commands.Bot):
     def __init__(self):
